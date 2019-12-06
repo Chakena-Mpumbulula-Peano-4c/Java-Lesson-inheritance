@@ -38,3 +38,10 @@ SuperClasse **ContoBancario**
   - permettere di conoscere il valore del **fido** 
   - permettere di creare un nuovo **fido**
   - ridefinire il metodo **preleva** della **super-classe** --> è possibile prelevare una determinata somma di denaro da un conto con **fido** solo se questo presenta un bilancio (incluso il **fido**) sufficiente .
+  
+  super: richiama le variabili al interno della parentesi del costruttore della super classe 
+  variabile d'oggetto: è un contenitore con al itnerno un valore, alla creazione d'un oggetto,dello spazio al interno della ram viene riservato per contenere la variabile
+  variabile metodo: è un contenitore con al interno un valore,lo spazio però vera solo riservato la durata del metodo e quando finira lo spazio non verra piu riservato
+  this: indica l'oggetto di cui si sta parlando e permette l'utilizzo dello stesso nome 
+  
+ 
